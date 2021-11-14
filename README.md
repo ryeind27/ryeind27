@@ -1,6 +1,6 @@
 # Hi, Roy Adrian Here👋
 
-<h3 align="center">a student from Syiah Kuala University</h3>
+<h2 align="left">a student from Syiah Kuala University</h2>
 
 - 🔭 I’m currently working on **Something**
 
