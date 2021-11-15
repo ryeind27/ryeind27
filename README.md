@@ -1,4 +1,4 @@
-# Hi, I'm Roy Adrian👋
+# Hi, My name is Teuku Muhammad Roy Adrian👋
 
 <h2 align="left">a student from Syiah Kuala University</h2>
 
