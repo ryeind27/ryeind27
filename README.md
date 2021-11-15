@@ -1,4 +1,4 @@
-# Hi, My name is Teuku Muhammad Roy Adrian👋
+<h1 align="left">Hi, My name is Teuku Muhammad Roy Adrian👋</h1>
 
 <h2 align="left">a student from Syiah Kuala University</h2>
 
