@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Anything :thinking:**
 
-- 📫 How to reach me **you can follow my Instagram: [@ryriand27_](https://www.instagram.com/ryriand27_/) :kissing_heart:**
+- 📫 How to reach me **you can follow my Instagram: [@ryriand27_](https://www.instagram.com/ryriand27_/)**
 
 - ⚡ Fun fact **I like playing games and want to occasionally make my own games**
 
