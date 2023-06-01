@@ -15,7 +15,3 @@
 </p>
 
 <p><img align="down" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryeind27&show_icons=true&theme=dark&title_color=fad900&text_color=dbbe00&locale=en&layout=compact" alt="ryeind27" </p>
- 
-<h2 align="left">My Statisctic: </h2>
-  
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryeind27&show_icons=true&theme=dark&title_color=ffdd00&text_color=dbbe00&locale=en" alt="ryeind27" </p>
