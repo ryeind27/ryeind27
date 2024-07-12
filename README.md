@@ -2,11 +2,6 @@
 
 <h2 align="left">a student from Syiah Kuala University</h2>
 
-- 🌱 I’m currently learning **Web Programming :thinking:**
-
-- 📫 How to reach me **you can follow my Instagram: [@ryriand27_](https://www.instagram.com/ryriand27_/)**
-
-- ⚡ Fun fact **I like playing games and want to occasionally make my own games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
